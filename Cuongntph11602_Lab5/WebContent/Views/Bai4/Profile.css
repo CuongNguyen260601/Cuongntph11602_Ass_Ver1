@@ -1,0 +1,21 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.profile {
+	border: 1px solid black;
+	background: whitesmoke;
+	box-shadow: 2px 5px wheat;
+	border-radius: 5px;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.btn {
+	width: 100%;
+	padding: 10px !important;
+	border-radius: 5px;
+}
